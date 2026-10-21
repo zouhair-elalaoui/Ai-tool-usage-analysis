@@ -34,7 +34,3 @@ For the complete methodology, experiments, and results, see the [**Project Repor
 This project was developed for academic purposes as part of a Data Mining project.
 
 **Academic Year:** 2025–2026
-
-## Disclaimer
-
-This project was developed for academic purposes as part of a Data Mining project.
