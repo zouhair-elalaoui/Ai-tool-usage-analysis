@@ -1,54 +1,22 @@
 # AI Tool Usage Analysis Among College Students
 
-## Project Overview
+## Overview
 
-This Data Mining project analyzes and predicts AI tool usage among college students. It explores students' usage patterns and investigates the factors associated with their use of AI tools through data analysis and machine learning.
+This project explores how college students use AI tools and investigates the factors influencing their adoption through data mining and machine learning.
 
-## Dataset
+## How It Works
 
-- **Source:** Kaggle
-- **Dataset:** AI Tool Usage by Indian College Students 2025
-- **Number of observations:** 3,614
+The project follows three main steps:
 
-## Objectives
+1. **Exploratory Data Analysis** — Identify usage patterns and relationships within the dataset.
+2. **Machine Learning** — Train classification models to predict AI tool usage.
+3. **Clustering** — Apply K-Means and PCA to explore groups of students with similar usage patterns.
 
-- Explore AI tool usage patterns among college students.
-- Perform exploratory data analysis (EDA).
-- Clean and preprocess the dataset.
-- Apply feature selection and data scaling.
-- Build binary and multiclass classification models.
-- Perform K-Means clustering and PCA for pattern exploration.
-- Evaluate model performance.
+## Results & Performance
 
-## Methodology
+The Random Forest binary classification model achieved **77.42% accuracy**. The project also explores student usage patterns through clustering and data visualization.
 
-1. **Data Exploration:** Analyze the dataset and visualize relevant patterns.
-2. **Data Preprocessing:** Clean data, encode categorical variables, and scale features where necessary.
-3. **Feature Selection:** Identify relevant features for modeling.
-4. **Classification:** Build models for binary and multiclass prediction.
-5. **Clustering:** Apply K-Means to explore groups of students and use PCA to analyze data structure.
-6. **Evaluation:** Assess the performance of the classification models.
-
-## Results
-
-The report presents a **77.42% accuracy** for the Random Forest binary classification model.
-
-For further details, consult the Jupyter Notebook and the project report included in this repository.
-
-## Technologies Used
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
-## Repository Contents
-
-- `*.ipynb` — Jupyter Notebook containing the analysis and machine learning experiments.
-- `*.pdf` — Project report documenting the methodology and results.
+For the complete methodology, experiments, and results, see the [**Project Report**](Ai-tool-usage-analysis.pdf).
 
 ## Team Members
 
@@ -58,6 +26,12 @@ For further details, consult the Jupyter Notebook and the project report include
 - SIMBRE Achraf
 
 **Supervisor:** Pr. BELCAID Anass
+
+**Academic Year:** 2025–2026
+
+## Disclaimer
+
+This project was developed for academic purposes as part of a Data Mining project.
 
 **Academic Year:** 2025–2026
 
